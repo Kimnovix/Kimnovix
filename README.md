@@ -1,7 +1,7 @@
 # Dennis K. Njagi | Kimnovix
 
-**Who I Am**
-I engineer automation workflows, data pipelines, and intelligent tracking systems that modernize operations for agricultural and technical enterprises. I help businesses eliminate manual bottlenecks by bridging the gap between biological workflows and scalable digital architecture.
+### Who I Am
+I engineer automation workflows, data pipelines, and intelligent tracking systems that modernize operations for agricultural and technical enterprises. I help businesses eliminate manual bottlenecks by bridging biological workflows and scalable digital architecture.
 
 ### What I Build
 
