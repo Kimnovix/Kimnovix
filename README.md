@@ -24,7 +24,7 @@ I engineer automation workflows, data pipelines, and intelligent tracking system
 * **Solution:** Developed a client-side prediction engine and coaching generator that manipulates the DOM to run entirely in the browser.
 * **Tools:** JavaScript, DOM API, Fetch API
 * **Result:** Delivers zero-setup coaching accessible on any device with a web browser.
-* **Code:** Pending Deployment
+* **Code:** https://github.com/Kimnovix/browser-coach
 
 **Project 4: Data Analysis Report [Data Analytics]**
 * **Problem:** Identifying long-term trends across a 28-day fitness log required tedious manual spreadsheet review.
