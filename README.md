@@ -1,17 +1,43 @@
-# Dennis K. Njagi | Python Developer | Automation & AI Tools
+# Dennis K. Njagi | Kimnovix
 
-Building practical tools that solve actual problems. Based in Eldoret, Kenya.
+**Who I Am**
+I engineer automation workflows, data pipelines, and intelligent tracking systems that modernize operations for agricultural and technical enterprises. I help businesses eliminate manual bottlenecks by bridging the gap between biological workflows and scalable digital architecture.
 
 ### What I Build
-* Data pipelines and automation scripts in Python
-* REST APIs with FastAPI and Flask
-* Machine learning tools for fitness and performance tracking
-* Browser-based tools with JavaScript and the Fetch API
 
-### Current Projects
-* **smp-tracker:** Daily performance tracker with ML-powered coaching
-* **api-dashboard:** Multi-endpoint data dashboard with pandas reports
-* **browser-coach:** Client-side AI coaching tool in JavaScript
+**Project 1: SMP Tracker [ML + API]**
+* **Problem:** Manually tracking fitness data and calculating coaching parameters took excessive time and lacked predictive insight.
+* **Solution:** Engineered an automated predictive pipeline that evaluates daily biometric inputs against a trained machine learning classifier to generate immediate coaching feedback.
+* **Tools:** Python, scikit-learn, pandas
+* **Result:** Delivers prediction and coaching instantly while exporting a weekly JSON report.
+* **Code:** https://github.com/Kimnovix/smp-tracker
 
-### Stack
-Python • FastAPI • Pandas • scikit-learn • JavaScript • Git • Supabase
+**Project 2: API Dashboard [Data Pipeline]**
+* **Problem:** Community performance metrics were fragmented, making it difficult to assess protocol adherence and skill engagement at a glance.
+* **Solution:** Built a terminal-based analytics dashboard that parses raw community data, computes averages, and generates text-based data visualizations.
+* **Tools:** Python, built-in JSON libraries
+* **Result:** Consolidates unstructured data into a unified visual summary and structured JSON export in a single command.
+* **Code:** https://github.com/Kimnovix/api-dashboard
+
+**Project 3: Browser Coach [Web Tool]**
+* **Problem:** End-users needed performance prediction without the friction of installing local Python environments or server backends.
+* **Solution:** Developed a client-side prediction engine and coaching generator that manipulates the DOM to run entirely in the browser.
+* **Tools:** JavaScript, DOM API, Fetch API
+* **Result:** Delivers zero-setup coaching accessible on any device with a web browser.
+* **Code:** Pending Deployment
+
+**Project 4: Data Analysis Report [Data Analytics]**
+* **Problem:** Identifying long-term trends across a 28-day fitness log required tedious manual spreadsheet review.
+* **Solution:** Created an automated log analysis tool that aggregates biometrics and compares protocol efficacy across a rolling 4-week window.
+* **Tools:** Python, pandas, NumPy
+* **Result:** Reduces a month of raw data into a granular, highly readable weekly breakdown.
+* **Code:** Pending Deployment
+
+### What I Offer
+* Architecting relational PostgreSQL database schemas for operational tracking.
+* Building automated data pipelines and dashboard integrations in Python.
+* Designing local machine learning classifiers for predictive analytics.
+* Deploying multi-platform automation workflows utilizing n8n and Docker.
+
+### Contact
+Email me directly at dennisnjagi025@gmail.com to discuss system architecture and custom automation workflows.
