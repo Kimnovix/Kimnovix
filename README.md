@@ -40,4 +40,4 @@ I engineer automation workflows, data pipelines, and intelligent tracking system
 * Deploying multi-platform automation workflows utilizing n8n and Docker.
 
 ### Contact
-Email me directly at dennisnjagi025@gmail.com to discuss system architecture and custom automation workflows.
+Email me directly at kimnovix@gmail.com to discuss system architecture and custom automation workflows.
